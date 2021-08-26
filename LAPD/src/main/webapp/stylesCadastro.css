@@ -1,0 +1,19 @@
+label{
+	width:100%;
+	text-align:center;
+	display: inline;
+}
+button{
+	padding: 20px 10px;
+	width: 30%;
+	border-radius: 0 0  5px 5px;
+	color: white;
+	display:table;
+	text-align: center;
+}
+label{
+	margin-bottom: 20px;
+	margin-top: 50px;
+	
+}
+
